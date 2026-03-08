@@ -1,0 +1,34 @@
+SELECT.*FROM
+INSERT.*INTO
+UPDATE.*SET
+DELETE.*FROM
+DROP.*TABLE
+TRUNCATE.*TABLE
+ALTER.*TABLE
+CREATE.*TABLE
+UNION.*SELECT
+UNION ALL SELECT
+OR 1=1
+OR '1'='1
+OR "1"="1
+AND 1=1
+AND '1'='1
+WAITFOR DELAY
+BENCHMARK
+SLEEP\(
+pg_sleep
+exec xp_cmdshell
+exec sp_configure
+EXECUTE IMMEDIATE
+INTO OUTFILE
+INTO DUMPFILE
+LOAD_FILE
+INFORMATION_SCHEMA
+sys.objects
+sys.tables
+sys.columns
+sqlmap
+' OR '1'='1' --
+" OR "1"="1" --
+' OR ''='
+admin' --
